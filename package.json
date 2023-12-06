@@ -176,7 +176,7 @@
     "@types/node": "12",
     "@types/react": "^16.9.44",
     "@types/react-dom": "^16.9.8",
-    "@types/react-helmet": "^6.1.0",
+    "@types/react-helmet": "^6.1.11",
     "@types/react-router": "^5.1.8",
     "@types/react-router-dom": "^5.1.5",
     "@types/react-test-renderer": "^16.9.3",
